@@ -1,0 +1,1 @@
+# Diff-color-generator
